@@ -7,6 +7,7 @@ utilizando librerias como:
 - BeatifulSoup
 - Selenium
 - Pandas ( Para el Dataframe)
+- scraping.txt ( Selectores CSS que se usaron)
 
 ## Archivos
 - Jupyter notebook nombre scraping_proyecto, con el codigo del proyecto
