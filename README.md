@@ -7,10 +7,10 @@ utilizando librerias como:
 - BeatifulSoup
 - Selenium
 - Pandas ( Para el Dataframe)
-- scraping.txt ( Selectores CSS que se usaron)
 
 ## Archivos
 - Jupyter notebook nombre scraping_proyecto, con el codigo del proyecto
 - Documento CSV promociones con el resultado obtenido.
+- scraping.txt ( Selectores CSS que se usaron)
 
 Este proyecto tiene la finalidad de obtener las promociones ortogadas por despegar.com y llevarlos a un documento CSV y posteriormente llevarlo a una base de datos.
